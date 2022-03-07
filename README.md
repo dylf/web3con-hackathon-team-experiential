@@ -4,6 +4,8 @@
 
 [View our presentation](https://docs.google.com/presentation/d/1uVWPMDMyT6LJH023atvX9sl-Qg_z-C61Q7M9T1N23ns/edit?usp=sharing)
 
+[Our video](https://drive.google.com/file/d/1_WYm8xgM1kNRG26Vrts11rNpfebgMC6W/view)
+
 AR web app for NFT location based meetup
 
 ## System overview
