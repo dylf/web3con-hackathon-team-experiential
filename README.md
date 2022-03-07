@@ -2,6 +2,8 @@
 
 ![ExperiAR](next-app/public/icon-192x192.png)
 
+[View our presentation](https://docs.google.com/presentation/d/1uVWPMDMyT6LJH023atvX9sl-Qg_z-C61Q7M9T1N23ns/edit?usp=sharing)
+
 AR web app for NFT location based meetup
 
 ## System overview
