@@ -17,7 +17,7 @@ import {
 import { AccountCircle, Message } from '@mui/icons-material';
 import Link from 'next/link';
 
-const gun = Gun(process.env.NEXT_PUBLIC_GUN_URL);
+const gun = Gun();
 
 const initialChatState = {
   addresses: [],

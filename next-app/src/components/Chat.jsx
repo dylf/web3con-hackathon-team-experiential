@@ -6,7 +6,7 @@ import SenderMessage from './SenderMessage';
 import RecipientMessage from './RecipientMessage';
 import { useEthereum } from '@decentology/hyperverse-ethereum';
 
-const gun = Gun(process.env.NEXT_PUBLIC_GUN_URL);
+const gun = Gun();
 
 const initialChatState = {
   messages: [],
